@@ -4,100 +4,7 @@
     <option name="autoReloadType" value="NONE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="4bc18625-9c19-4a64-affa-277b575f0b9c" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/../FavouriteBooksTracker/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../FavouriteBooksTracker/.idea/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../FavouriteBooksTracker/.idea/compiler.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../FavouriteBooksTracker/.idea/deploymentTargetSelector.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../FavouriteBooksTracker/.idea/gradle.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../FavouriteBooksTracker/.idea/kotlinc.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../FavouriteBooksTracker/.idea/migrations.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../FavouriteBooksTracker/.idea/misc.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../FavouriteBooksTracker/.idea/vcs.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../FavouriteBooksTracker/app/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../FavouriteBooksTracker/app/build.gradle.kts" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../FavouriteBooksTracker/app/proguard-rules.pro" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../FavouriteBooksTracker/app/src/androidTest/java/com/example/favouritebookstracker/ExampleInstrumentedTest.kt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../FavouriteBooksTracker/app/src/main/AndroidManifest.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../FavouriteBooksTracker/app/src/main/java/BooksTracker.kt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../FavouriteBooksTracker/app/src/main/res/drawable/ic_launcher_background.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../FavouriteBooksTracker/app/src/main/res/drawable/ic_launcher_foreground.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../FavouriteBooksTracker/app/src/main/res/mipmap-anydpi-v26/ic_launcher.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../FavouriteBooksTracker/app/src/main/res/mipmap-anydpi-v26/ic_launcher_round.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../FavouriteBooksTracker/app/src/main/res/mipmap-hdpi/ic_launcher.webp" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../FavouriteBooksTracker/app/src/main/res/mipmap-hdpi/ic_launcher_round.webp" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../FavouriteBooksTracker/app/src/main/res/mipmap-mdpi/ic_launcher.webp" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../FavouriteBooksTracker/app/src/main/res/mipmap-mdpi/ic_launcher_round.webp" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../FavouriteBooksTracker/app/src/main/res/mipmap-xhdpi/ic_launcher.webp" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../FavouriteBooksTracker/app/src/main/res/mipmap-xhdpi/ic_launcher_round.webp" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../FavouriteBooksTracker/app/src/main/res/mipmap-xxhdpi/ic_launcher.webp" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../FavouriteBooksTracker/app/src/main/res/mipmap-xxhdpi/ic_launcher_round.webp" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../FavouriteBooksTracker/app/src/main/res/mipmap-xxxhdpi/ic_launcher.webp" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../FavouriteBooksTracker/app/src/main/res/mipmap-xxxhdpi/ic_launcher_round.webp" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../FavouriteBooksTracker/app/src/main/res/values-night/themes.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../FavouriteBooksTracker/app/src/main/res/values/colors.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../FavouriteBooksTracker/app/src/main/res/values/strings.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../FavouriteBooksTracker/app/src/main/res/values/themes.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../FavouriteBooksTracker/app/src/main/res/xml/backup_rules.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../FavouriteBooksTracker/app/src/main/res/xml/data_extraction_rules.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../FavouriteBooksTracker/app/src/test/java/com/example/favouritebookstracker/ExampleUnitTest.kt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../FavouriteBooksTracker/build.gradle.kts" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../FavouriteBooksTracker/gradle.properties" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../FavouriteBooksTracker/gradle/libs.versions.toml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../FavouriteBooksTracker/gradle/wrapper/gradle-wrapper.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../FavouriteBooksTracker/gradle/wrapper/gradle-wrapper.properties" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../FavouriteBooksTracker/gradlew" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../FavouriteBooksTracker/gradlew.bat" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../FavouriteBooksTracker/settings.gradle.kts" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../MyApplication/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../MyApplication/.idea/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../MyApplication/.idea/.name" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../MyApplication/.idea/compiler.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../MyApplication/.idea/deploymentTargetSelector.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../MyApplication/.idea/gradle.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../MyApplication/.idea/kotlinc.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../MyApplication/.idea/migrations.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../MyApplication/.idea/misc.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../MyApplication/.idea/vcs.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../MyApplication/app/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../MyApplication/app/build.gradle.kts" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../MyApplication/app/proguard-rules.pro" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../MyApplication/app/src/androidTest/java/com/example/myapplication/ExampleInstrumentedTest.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../MyApplication/app/src/main/AndroidManifest.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../MyApplication/app/src/main/java/1.kt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../MyApplication/app/src/main/java/cscsa.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../MyApplication/app/src/main/res/drawable/ic_launcher_background.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../MyApplication/app/src/main/res/drawable/ic_launcher_foreground.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../MyApplication/app/src/main/res/mipmap-anydpi-v26/ic_launcher.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../MyApplication/app/src/main/res/mipmap-anydpi-v26/ic_launcher_round.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../MyApplication/app/src/main/res/mipmap-hdpi/ic_launcher.webp" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../MyApplication/app/src/main/res/mipmap-hdpi/ic_launcher_round.webp" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../MyApplication/app/src/main/res/mipmap-mdpi/ic_launcher.webp" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../MyApplication/app/src/main/res/mipmap-mdpi/ic_launcher_round.webp" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../MyApplication/app/src/main/res/mipmap-xhdpi/ic_launcher.webp" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../MyApplication/app/src/main/res/mipmap-xhdpi/ic_launcher_round.webp" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../MyApplication/app/src/main/res/mipmap-xxhdpi/ic_launcher.webp" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../MyApplication/app/src/main/res/mipmap-xxhdpi/ic_launcher_round.webp" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../MyApplication/app/src/main/res/mipmap-xxxhdpi/ic_launcher.webp" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../MyApplication/app/src/main/res/mipmap-xxxhdpi/ic_launcher_round.webp" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../MyApplication/app/src/main/res/values-night/themes.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../MyApplication/app/src/main/res/values/colors.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../MyApplication/app/src/main/res/values/strings.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../MyApplication/app/src/main/res/values/themes.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../MyApplication/app/src/main/res/xml/backup_rules.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../MyApplication/app/src/main/res/xml/data_extraction_rules.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../MyApplication/app/src/test/java/com/example/myapplication/ExampleUnitTest.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../MyApplication/build.gradle.kts" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../MyApplication/gradle.properties" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../MyApplication/gradle/libs.versions.toml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../MyApplication/gradle/wrapper/gradle-wrapper.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../MyApplication/gradle/wrapper/gradle-wrapper.properties" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../MyApplication/gradlew" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../MyApplication/gradlew.bat" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../MyApplication/settings.gradle.kts" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../RandomQuoteGenerator/.idea/gradle.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../RandomQuoteGenerator/.idea/workspace.xml" beforeDir="false" />
-    </list>
+    <list default="true" id="4bc18625-9c19-4a64-affa-277b575f0b9c" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -139,7 +46,6 @@
     "RunOnceActivity.readMode.enableVisualFormatting": "true",
     "cf.first.check.clang-format": "false",
     "cidr.known.project.marker": "true",
-    "git-widget-placeholder": "main",
     "kotlin-language-version-configured": "true",
     "last_directory_selection": "C:/Users/gutek/AndroidStudioProjects/Zadanie2/app/src/main/java"
   },
@@ -149,7 +55,7 @@
     ]
   }
 }]]></component>
-  <component name="RunManager" selected="Kotlin.RandomQuoteGeneratorKt">
+  <component name="RunManager">
     <configuration name="app" type="AndroidRunConfigurationType" factoryName="Android App" activateToolWindowBeforeRun="false">
       <module name="Zadanie2.app.main" />
       <option name="DEPLOY" value="true" />
@@ -216,18 +122,6 @@
         <option name="Android.Gradle.BeforeRunTask" enabled="true" />
       </method>
     </configuration>
-    <configuration name="RandomQuoteGeneratorKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="RandomQuoteGeneratorKt" />
-      <module name="Zadanie2.app.main" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <recent_temporary>
-      <list>
-        <item itemvalue="Kotlin.RandomQuoteGeneratorKt" />
-      </list>
-    </recent_temporary>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
