@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:padding="16dp">
+
+    <ImageView
+        android:id="@+id/coffeeImageView"
+        android:layout_width="200dp"
+        android:layout_height="200dp"
+        android:layout_gravity="center"
+        android:src="@drawable/espresso" />
+
+    <RadioGroup
+        android:id="@+id/radioGroupCoffee"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:orientation="vertical">
+
+        <RadioButton
+            android:id="@+id/radioEspresso"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Espresso"/>
+
+        <RadioButton
+            android:id="@+id/radioCappuccino"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Cappuccino"/>
+
+        <RadioButton
+            android:id="@+id/radioLatte"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Latte"/>
+    </RadioGroup>
+
+    <CheckBox
+        android:id="@+id/checkMilk"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Mleko"/>
+
+    <CheckBox
+        android:id="@+id/checkSugar"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Cukier"/>
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Ilość:"/>
+
+    <SeekBar
+        android:id="@+id/quantitySeekBar"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:max="10"/>
+
+    <TextView
+        android:id="@+id/quantityTextView"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="0"/>
+
+    <Button
+        android:id="@+id/orderButton"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Złóż zamówienie"
+        android:layout_gravity="center"/>
+</LinearLayout>
